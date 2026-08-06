@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://sergeantray.github.io/world-drug-map/sitemap.xml
