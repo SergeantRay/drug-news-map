@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sergeantray.github.io/world-drug-map/sitemap.xml
+Sitemap: https://sergeantray.github.io/drug-news-map/sitemap.xml

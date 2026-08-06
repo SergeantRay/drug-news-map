@@ -2,7 +2,7 @@
 
 A **live world map of addictive drug news** — opioids & fentanyl, heroin, cocaine, meth, cannabis, alcohol and more. Every dot is a story, colored by the drug it's about; overlapping stories split the dot like a pie.
 
-**👉 Live at: https://sergeantray.github.io/world-drug-map/**
+**👉 Live at: https://sergeantray.github.io/drug-news-map/**
 
 ![poster](poster.png)
 
